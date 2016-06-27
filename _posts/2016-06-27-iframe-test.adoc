@@ -2,4 +2,12 @@
 
 1. cartodb
 
+++++
 <iframe width="100%" height="520" frameborder="0" src="https://trolleway.cartodb.com/viz/b2a6f568-b27c-11e5-8252-0ecfd53eb7d3/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+++++
+
+2. screen-wide iframe 
+
+++++
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fartem.svetlov.94%2Fposts%2F984825934970655&width=1750&show_text=false&appId=1558231611157728&height=498" width="1750" height="498" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+++++
